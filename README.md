@@ -1,47 +1,35 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/DRpsT8AJmGkjxdo9tY/giphy.gif" width="180">
+<img src="https://media.giphy.com/media/QDInpY6J3XtdBgvQaX/giphy.gif" width="150">
 
-# ꒰ა 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 ໒꒱
+# ୨ৎ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓌𝑜𝓇𝓁𝒹
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
-### Seja bem-vinda(o) ao meu pequeno universo!
+**Sejam bem-vindas (os)!**
 
-˚˖𓍢ִ໋🦢˚
+*Um pequeno universo de códigos, sonhos e confusões matemáticas.*
 
-*Entre códigos, café, sonhos e problemas com matemática.*
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DCE8&height=80&section=header&text=Let's%20code%20together!&fontSize=23&fontColor=9B7185"/>
 
 </div>
 
----
-
-<img align="right" width="145" src="https://media.giphy.com/media/bQtHMIS7FR5GHqqBL6/giphy.gif">
-
 ## ୭ ᵎᵎ 🧁 About me
 
-Olá! Sou uma garota explorando o mundo da tecnologia.
+<img align="right" width="140" src="https://media.giphy.com/media/DRpsT8AJmGkjxdo9tY/giphy.gif"/>
 
-- 🎀 Aprendendo programação.
-- 📚 Estudando matemática.
-- 💻 Criando meus primeiros projetos.
-- 🦢 Apaixonada por coisas delicadas.
-- ᯠ ⑅ ᯄ Sempre em evolução.
+- 🎀 Beginner programmer.
+- 🦢 Learning something new every day.
+- 📚 Mathematics is my biggest challenge.
+- 💻 Interested in technology.
+- ᯠ ⑅ ᯄ Creating my own little projects.
 
 <br clear="right"/>
 
 ---
 
-<div align="center">
-
-## ╰┈➤ Vamos programar?
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F8E3EC&height=3"/>
-
-</div>
-
-## ꣑ৎ My skills
+## ꣑ৎ My toolbox
 
 <div align="center">
 
@@ -51,34 +39,38 @@ Olá! Sou uma garota explorando o mundo da tecnologia.
 
 ---
 
-## ୨୧ My projects
+## 𖾕𖾝𖽙𖾟 My GitHub statistics
 
-| Projeto | Descrição |
-|---|---|
-| 🎀 Python | Meus experimentos |
-| 🧁 HTML | Páginas pessoais |
-| 🦢 CSS | Designs e personalização |
-| 💌 GitHub | Minha evolução |
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=FFF5F8&title_color=C58CA5&text_color=947486&icon_color=DDAFC5&border_color=F1DCE6&hide_border=false"/>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=FFF5F8&title_color=C58CA5&text_color=947486&border_color=F1DCE6"/>
+
+</div>
+
+---
+
+## ╰┈➤ My little projects
+
+୭ ᵎᵎ 🧁 Here are some things I'm working on:
+
+- 🎀 Python experiments
+- 🦢 Personal projects
+- 📖 Learning repositories
+- 💌 Future creations
 
 ---
 
 <div align="center">
 
-## 𖾕𖾝𖽙𖾟 My GitHub
+<img src="https://media.giphy.com/media/bQtHMIS7FR5GHqqBL6/giphy.gif" width="100"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=FFF5F8&title_color=C58CA5&text_color=947486&icon_color=DDAFC5&border_color=F1DCE6"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=FFF5F8&title_color=C58CA5&text_color=947486&border_color=F1DCE6"/>
-
----
-
-<img src="https://media.giphy.com/media/DRpsT8AJmGkjxdo9tY/giphy.gif" width="130">
-
-### ˚₊‧꒰ა 𝒯𝒽𝒶𝓃𝓀 𝓎𝑜𝓊! ໒꒱ ‧₊˚
+### ˚₊‧꒰ა 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝑜𝓇 𝓋𝒾𝓈𝒾𝓉𝒾𝓃𝑔 ໒꒱ ‧₊˚
 
 > Apenas uma garota e seus problemas com matemática.
 
-*Little girl, big dreams.*
+**Let's make beautiful things with code!**
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
